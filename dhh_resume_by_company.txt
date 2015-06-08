@@ -1,0 +1,81 @@
+David H. Hunter
+1305 Windmill Lane	812.946.0010
+Jeffersonville, IN  47130	davidhhunter@gmail.com
+
+Senior Engineer
+Experienced engineer and team leader with full life-cycle software development experience, research, design, test, requirements, and standards compliance. Extensive IT experience with business solutions, consulting, help desk, management, LAN, POS, Project Management, and network troubleshooting. Experience with Windows Desktop and Server OS, Cisco, Dell, Netware, Mac OS, Linux, Solaris, and UNIX. Skilled in mentoring and helping new and seasoned staff troubleshoot when confronted with a technology challenge
+
+EXPERIENCE
+	
+Progress Rail Services, a Caterpillar Company	Louisville, KY	2010 - Present
+Field Administrator
+•	5 years recent experience of Project Management from initial request, vendor selection, and through implementation and support.
+•	Consistently kept all computers, printers, switches, routers, and servers in good repair and running smoothly.
+•	Installed, networked, and provided support for approximately 20 regional offices and a local datacenter with Dell PC and servers, and Cisco VOIP phones, routers and switches.
+•	Recent upgrade of 200 PCs to new OS and application suites.
+•	Recent setup and testing of internal software package with Linux, Apache, Oracle, SQL backend server and Windows PC front-end.
+•	Preparation and testing of disaster recovery and business resumption plans.
+
+Computer Hunter Corporation		1991 - 2010
+Owner, Small Business Consultant
+•	Provided consulting services in networking, installation, recovery, and integration
+•	Manufactured custom computer systems
+•	Beta tester for Microsoft Windows operating systems since 1995.
+
+The Mirazon Group, Microsoft Gold Partner	Louisville, KY	2008 - 2009
+Systems Engineer
+•	Provided support for 20+ regional clients with Dell PC and servers, and networked routers and switches.
+•	Provided consulting services in networking, installation, virtual environment, recovery, and integration
+
+Midland School District 	Pleasant Plains, AR	2002 - 2008
+Technology Coordinator
+•	Technology Coordinator with responsibility for all technology resources in school district
+•	Consistently kept all computers, printers, switches, servers in good repair and running smoothly
+•	Trained and managed paid and volunteer technology staff
+•	Manage E-rate program, technology budget, and help with federal programs
+•	Rollout of High Performance lab – Mac, Windows server, Dell Precision Workstations, plotters, printers, cameras, with Drafting, AV creation and editing software
+
+
+
+
+DSET Inc.	Plano, TX	2000 - 2001
+A provider of OSS software for electronic bonding gateways with trading partners
+Senior Engineer
+•	Fully tested software offerings at the unit, integration, functional, and system levels
+•	Wrote and performed Test cases using shell scripting, querying, WinRunner, and Test Director and SQL to document and test 300 bugs in web-based application
+•	Programmed and developed automated test suites for interaction with networked heterogeneous equipment. Environment was Solaris, MVS, Microsoft OS, and Oracle using the languages SQL, Java, Tcl/Tk/Expect, Perl, and C/C++. Reporting and Security testing were main concentrations
+
+Mobilestar Network	Richardson, TX	                	1999 - 2000              
+Provider of Wireless Internet Solutions to Hotels, Airports, and Conventions
+Staff Engineer
+•	Trained sales staff in planned co-existence of wireless technologies and site survey methodology
+•	Researched and tested wireless hardware for implementation and installation in hotel and airport locations.
+
+Alcatel USA/DSC Communications	Plano, TX	1993 - 1999
+Manufacturer of integrated end-to-end voice and data networking solutions.
+Senior Engineer
+•	Performed system testing of internal applications.
+•	Programmed and developed automated test suites for interaction with networked heterogeneous equipment. Environment was Solaris, MVS, Microsoft OS, and Oracle using the languages SQL, Java, Tcl/Tk/Expect, Perl, and C/C++. Reporting and Security testing were main concentrations
+•	Trained and mentored recent graduates in software development life cycle
+•	Reviewed and revised Wireless Number Portability (WNP) National Standards
+•	Wrote engineering requirements and system level design for MCI, CLDC, CLEC, and STP product lines requiring Bellcore, ANSI, and ETSI standards compliance and research
+•	Led new engineers in coding techniques that were efficient, properly documented and also easily maintainable
+
+Ericsson Inc.  	Richardson, TX	1991 - 1993
+A leading supplier of telecommunications equipment
+Software Development Engineer
+•	Fully tested software offerings at the unit, integration, functional, and system levels
+
+
+EDUCATION
+BS Computer Science 	Purdue University West Lafayette, IN	1991
+BS Mathematics	Purdue University West Lafayette, IN	1991
+AS Mathematics	Purdue University West Lafayette, IN	1989
+
+Microsoft MCSA:2003	Citrix CCA Xen Server	Comptia A+,N+
+
+Community
+•	Boy Scouts - Eagle Scout, assistant scoutmaster
+•	Officer DFW Unix Users Group, LOU Microsoft Users Group
+•	Red Cross volunteer
+
